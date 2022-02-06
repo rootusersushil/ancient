@@ -1,0 +1,1045 @@
+.master{
+    width: 500px;
+    height: 200px;
+    background-color: red;
+}
+
+.india{
+    color:white;
+    background-color: #00ADB5;
+}   
+
+.india:hover{
+    background-color:#c9eb0c;
+    box-shadow: 0 2px 2px;
+    color:black;
+}
+
+.chinese{
+    color:white;
+    background-color:#be1b1b ;
+}
+
+.chinese:hover{
+    background-color:#c9eb0c;
+    box-shadow: 0 2px 2px;
+    color:black;
+}
+body{
+    position: relative;
+}
+
+.pageEnd{
+    font-weight: bold;
+}
+
+.joinBtn{
+    position:relative;
+}
+
+.modalButton{
+    position:absolute;
+    left:689px;
+}
+
+.modalButton:hover{
+    background-color:#c9eb0c;
+    box-shadow: 0 2px 2px;
+    color:black;
+}
+
+.modal-header{
+    position: relative;
+}
+
+.modal-title{
+    position:absolute;
+    left:30%;
+}
+
+.authorBtn:hover{
+    background-color:#00ADB5;
+    box-shadow: 0 2px 2px;
+    color:black;
+}
+
+.offcanvas-header{
+    position: relative;
+}
+
+.offcanvas-title{
+    position:absolute;
+    left:30%;
+}
+
+.offcanvas{
+    width:450px;
+}
+
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+::selection{
+    color:white;
+    background-color:red;
+}
+
+.dropIt:hover{
+    color:white;
+    background-color: black;
+}
+
+.prevBtn:before{
+    content: ' \00AB';
+}
+
+
+
+.nextBtn:after{
+    content: ' \00BB';
+}
+
+.ubox:hover{
+    background-color:red;
+    color:white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: relative;
+    top:-10px;
+    transform:rotate(-3deg);
+}
+
+.ubox{
+     border-radius: 10px;
+}
+
+hr{
+    border:none;
+    border-top-width:5px;
+    border-top-style:dotted;
+    border-top-color:red;
+    width:40px;
+    margin-left:600px;
+}
+
+#ind{
+    border-radius: 13px;
+    border-left-width:10px;
+    border-left-color:#FF9292;
+    border-right-width:10px;
+    border-right-color:#FF9292;
+}
+#nand{
+    border-radius: 13px;
+    border-left-color:#D3ECA7;
+    border-left-width:10px;
+    border-right-width:10px;
+    border-right-color:#D3ECA7;
+}
+
+
+#maur{
+    border-radius: 13px;
+    border-left-width:10px;
+    border-left-color:#6998AB;
+    border-right-width:10px;
+    border-right-color:#6998AB;
+}
+
+#shun{
+    border-radius: 13px;
+    border-left-width:10px;
+    border-left-color:#96BB7C;
+    border-right-width:10px;
+    border-right-color:#96BB7C;
+}
+
+#chol{
+    border-radius: 13px;
+    border-left-width:10px;
+    border-left-color:#787A91;
+    border-right-width:10px;
+    border-right-color:#787A91;
+}
+
+#gup{
+    border-radius: 13px;
+    border-left-width:10px;
+    border-left-color:red;
+    border-right-width:10px;
+    border-right-color:red;
+}
+
+#shang{
+    border-radius: 13px;
+}
+
+#zhou{
+    border-radius: 13px;
+}
+
+#qin{
+    border-radius: 13px;
+}
+
+#han{
+    border-radius: 13px;
+}
+
+#jin{
+    border-radius: 13px;
+}
+
+#greece{
+    border-radius: 13px;
+}
+
+#mace{
+    border-radius: 13px;
+}
+
+#hell{
+    border-radius: 13px;
+}
+
+#thraci{
+    border-radius: 13px;
+}
+
+#rome{
+    border-radius: 13px;
+}
+
+#sele{
+    border-radius: 13px;
+}
+
+#ptol{
+    border-radius: 13px;
+}
+
+#scythia{
+    border-radius: 13px;
+}
+
+#sarmatia{
+    border-radius: 13px;
+}
+
+#xiongnu{
+    border-radius: 13px;
+}
+
+#huns{
+    border-radius: 13px;
+}
+
+#early{
+    border-radius: 13px;
+}
+#old{
+    border-radius: 13px;
+}
+#middle{
+    border-radius: 13px;
+}
+#new{
+    border-radius: 13px;
+}
+#third{
+    border-radius: 13px;
+}
+#late{
+    border-radius: 13px;
+}
+#legacy{
+    border-radius: 13px;
+}
+#kerma{
+    border-radius: 13px;
+}
+#kush{
+    border-radius: 13px;
+}
+#macrobia{
+    border-radius: 13px;
+}
+#aksum{
+    border-radius: 13px;
+}
+#sumer{
+    border-radius: 13px;
+}
+#hurria{
+    border-radius: 13px;
+}
+#arry{
+    border-radius: 13px;
+}
+#bab{
+    border-radius: 13px;
+}
+#phoenix{
+    border-radius: 13px;
+}
+#carth{
+    border-radius: 13px;
+}
+#hit{
+    border-radius: 13px;
+}
+#elam{
+    border-radius: 13px;
+}
+#medes{
+    border-radius: 13px;
+}
+#archa{
+    border-radius: 13px;
+}
+#parth{
+    border-radius: 13px;
+}
+#sasanian{
+    border-radius: 13px;
+}
+
+::-webkit-scrollbar{
+    width:10px;
+}
+
+::-webkit-scrollbar-track{
+    background-color:black;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color:#888;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background-color:#555;
+}
+
+#myCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #myCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+
+#nanCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #nanCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#maurCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #maurCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#shunCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #shunCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#cholCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #cholCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#gupCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #gupCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#shangCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #shangCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#zhouCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #zhouCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#qinCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #qinCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#hanCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #hanCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#jinCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #jinCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#greeceCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #greeceCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+
+
+#maceCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #maceCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#hellCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #hellCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#thrCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #thrCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#romeCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #romeCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#seleCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #seleCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#ptoCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #ptoCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+
+#scyCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #scyCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#sarCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #sarCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#xionCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #xionCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#hunCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #hunCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#earCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #earCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#oldCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #oldCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#midCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #midCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#newCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #newCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#thirdCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #thirdCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#lateCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #lateCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#legCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #legCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#kermaCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #kermaCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#kushCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #ksuhCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#macCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #macCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#aksumCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #aksumCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#sumCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #sumCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#hurCarousel{
+    position: relative;left:355px;
+}
+
+@media only screen and (max-width:800px){
+   #hurCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#assCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #assCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#babCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #babCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#phoenixCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #phoenixCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#carthCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #carthCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#hitCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #hitCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#elamCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #elamCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#medeCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #medeCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#archaCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #archaCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#parthCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #parthCarousel{
+     max-width: 50px;
+     left:0;
+   }
+}  
+
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
+#sasCarousel{
+    position: relative;left:355px;
+  }
+
+@media only screen and (max-width:800px){
+   #sasCarousel{
+     max-width: 50px;
+     left:0;
+   }  
+}
+.carousel .carousel-indicators button{
+    width:10px;
+    height:10px; 
+    border-radius:100%;
+}
